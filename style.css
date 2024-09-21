@@ -1,0 +1,79 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    font-size: 1.75vw;
+}
+
+p {
+    font-size: 1em;
+}
+body > header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header > h1 {
+    margin: 0px;
+    padding: 8px;
+    font-family: "Tangerine", sans-serif;
+    box-shadow: 8px 8px 10px 3px  black;
+    width: 24%;
+    border-radius: 9%;
+    text-shadow: -1px -1px 0 black, 
+                 1px -1px 0 black, 
+                 -1px 1px 0 black, 
+                 1px 1px 0 black;
+}
+
+h1 {
+    margin: 0px;
+    padding: 8px;
+    
+}
+
+cite > a{
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+}
+
+ul{ 
+    margin: 0px;
+}
+
+
+body > header{
+    background-color: orange;
+    color: white;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: solid;
+}
+
+.navbutton {
+    color: white;
+    text-decoration: none;
+}
+
+body > main > article {
+    margin: auto;
+    width: 80%;
+    height:70%;
+}
+
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    border-radius: 70%;
+}
+
+article > footer{
+    background-color: orange;
+}
